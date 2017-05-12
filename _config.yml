@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Stay tuned for updates!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.digitoes.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  danhwu
+facebook_username:  digitoes
+github_username: digitoes
 
 # Build settings
 markdown: kramdown
